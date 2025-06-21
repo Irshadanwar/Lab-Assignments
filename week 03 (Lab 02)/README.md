@@ -1,4 +1,4 @@
-# 🧪 Week 03 – Lab Assignment 02 | MAD 01 (BSCCS2003) – IITM BS
+# 🧪 Week 03 – Lab Assignment 02 | MAD 01 – IITM BS
 
 This folder contains the complete solution for **Week 03 Lab Assignment 02** of the **MAD 01: Modern Application Development I** course from **IIT Madras B.S. in Data Science and Applications**.
 
