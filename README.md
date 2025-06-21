@@ -1,4 +1,4 @@
-# MAD 01 Lab Assignment Solutions – IITM BS
+# MAD 01 (BSCCS2003) Lab Assignment Solutions – IITM BS
 
 This repository contains beginner-friendly, week-wise solutions for the **Modern Application Development I (MAD 01)** Lab Assignments from the **B.S. in Data Science and Applications** program at **IIT Madras**.
 
